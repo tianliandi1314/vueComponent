@@ -1,0 +1,10 @@
+.example {
+    outline: none;
+    box-sizing: content-box;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background: svg(1px-border param(--color red)) no-repeat ;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
